@@ -1,0 +1,22 @@
+{
+  "name": "ts_admin_bot",
+  "version": "1.0.0",
+  "description": "Provides functionality to TS users via chat",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jangxx",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.0.0-rc.6",
+    "node-teamspeak": "^1.0.10",
+    "sendmail": "^0.2.2",
+    "sqlite3": "^3.1.4",
+    "string-template": "^1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jangxx/ts-admin-bot.git"
+  }
+}

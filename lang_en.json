@@ -1,0 +1,26 @@
+{
+    "code": "en",
+    "name": "English",
+    "strings": {
+        "greeting": "Hi, this is the friendly Admin Bot. Change my language by writing !lang and get help by writing !help. Have a great time :)",
+        "invalid_command": "This is an invalid command. Enter !help to get a list of available commands.",
+        "please_reconnect": "Looks like I've not seen you before. Please reconnect so I can get a better look at you.",
+        "required_param": "'{param}' is a required parameter.",
+
+        "help_desc": "Prints all available commands.",
+        "help_commandlist": "List of available commands:",
+
+        "lang_desc": "Sets language for the bot.",
+        "lang_list": "List of available languages:",
+        "lang_invalid": "Invalid language code.",
+        "lang_changed": "Successfully changed language.",
+
+        "info_desc": "Prints information about the bot",
+
+        "pokeme_desc": "Pokes you after a specified time (for use as a timer)",
+        "pokeme_message": "Poking you in {minutes} minutes.",
+
+        "adminmessage_desc": "Send a message to the admin",
+        "adminmessage_sent": "Message was sent."
+    }
+}
